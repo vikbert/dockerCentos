@@ -1,7 +1,6 @@
 # Nginx + PHP-FPM docker container
 [![Circle CI](https://circleci.com/gh/million12/docker-nginx-php/tree/master.svg?style=svg)](https://circleci.com/gh/million12/docker-nginx-php/tree/master)
 
-This is a [million12/nginx-php](https://registry.hub.docker.com/u/million12/nginx-php/) docker container with Nginx + PHP-FPM combo. 
 
 For different PHP versions, look up different branches of this repository. On Docker Hub you can find them under different tags:    
 * `million12/nginx-php:latest` - PHP 5.6 (master branch)
@@ -93,9 +92,4 @@ Configure ip address that would be allowed to see PHP-FPM status page on `/fpm_s
 
 ## Authors
 
-Author: ryzy (<marcin@m12.io>)  
-Author: pozgo (<linux@ozgo.info>)
-
----
-
-**Sponsored by** [Typostrap.io - the new prototyping tool](http://typostrap.io/) for building highly-interactive prototypes of your website or web app. Built on top of TYPO3 Neos CMS and Zurb Foundation framework.
+Author: Xun Zhou (xun.zhou@momox.biz)
